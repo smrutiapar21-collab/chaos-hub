@@ -1,4 +1,5 @@
 # chaos-hub
 This is my first Git Repository
 <br>
-Author - Smruti Apar
+Author - Smruti Apar(KIIT UNIVERSITY)
+
